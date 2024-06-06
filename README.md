@@ -39,8 +39,7 @@
     </ul>
      <h2>4. Instalação</h2>
     <ol>
-        <li>Clone o repositório:<br><code>git clone https://github.com/seu-usuario/nome-do-repositorio.git<br>cd nome-do-repositorio</code></li>
-        <li>Crie um ambiente virtual:<br><code>python -m venv venv<br>source venv/bin/activate  # No Windows: venv\Scripts\activate</code></li>
+        <li>Clone o repositório:<br><code>git clone https://github.com/CaioRibeiro551/Stock_Dashboard/tree/main<br>cd nome-do-repositorio</code></li>
         <li>Instale as dependências:<br><code>pip install -r requirements.txt</code></li>
         <li>Execute a aplicação:<br><code>streamlit run app.py</code></li>
     </ol>
