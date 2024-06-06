@@ -1,7 +1,3 @@
-
-<h1>Deploy</h1>
-
-<p>https://stockdashboard-ibov.streamlit.app/</p>
  <h2>Sumário</h2>
     <ol>
         <li><a href="#introdução">Introdução</a></li>
