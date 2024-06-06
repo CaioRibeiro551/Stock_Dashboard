@@ -88,5 +88,5 @@ nome-do-repositorio/
     ![image](https://github.com/CaioRibeiro551/Stock_Dashboard/assets/65637121/84a30f22-d6a2-4e4e-9ff7-9efe667d4536)
     <h2>9. Considerações Finais</h2>
     <p>Este projeto fornece uma base sólida para criar dashboards financeiros interativos. Sinta-se à vontade para contribuir e expandir este projeto conforme suas necessidades.</p>
-https://github.com/CaioRibeiro551/Stock_Dashboard/assets/65637121/e1280d5e-412b-4cf6-912c-29ea85ac9eff
+![image](https://github.com/CaioRibeiro551/Stock_Dashboard/assets/65637121/84a30f22-d6a2-4e4e-9ff7-9efe667d4536)
    
