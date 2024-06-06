@@ -1,3 +1,4 @@
+![Capa Projeto](https://github.com/CaioRibeiro551/Stock_Dashboard/assets/65637121/84a30f22-d6a2-4e4e-9ff7-9efe667d4536)
  <h2>Sumário</h2>
     <ol>
         <li><a href="#introdução">Introdução</a></li>
